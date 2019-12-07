@@ -1,7 +1,7 @@
 # appointment-webapp-for-library
-#LibraryPoint - Php Web App for appointment booking with the college library<br/>
+#LibraryPoint - A Php Web App for appointment booking with the college library<br/>
 URL - 
-[Visit the live website Librarypoint](http://librarypoint.c1.biz/)<br/>
+[live website - Librarypoint](http://librarypoint.c1.biz/)<br/>
 
 Sample login credentials - use these credentials for testing purposes.<br/>
 
