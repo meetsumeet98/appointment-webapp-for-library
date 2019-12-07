@@ -32,7 +32,7 @@ A student can create a new appointment by choosing the appropriate time slot (if
 All the users should use their official Email ID provided by the college( ex - 2016bit034@sggs.ac.in  where @sggs.ac.in is the college domain) to register and login.<br/>
 The website is protected from SQL injection by using MySQLi.<br/>
 No user can access any webpage by pasting the URL into the browser. (all the users need to login first to access any webpage of the website). This feature was implemented using Sessions in PHP.<br/>
-[/librarypoint.png]
+![](/librarypoint.png)
 
 
 
